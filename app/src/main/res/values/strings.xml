@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FGuide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">UST FOOD GUIDE</string>
+    <string name="AreaDap">Dapitan</string>
+    <string name="AreaEsp">Espana</string>
+    <string name="AreaLac">Lacson</string>
+    <string name="AreaNov">P. Noval</string>
+    <string name="welcome">WELCOME!</string>
+
+    //Strings for radio buttons
+    <string name="rbDap">Dapitan</string>
+    <string name="rbEsp">Espanya</string>
+    <string name="rbLac">Lacson</string>
+    <string name="rbPNo">P. Noval</string>
+
+    //Labels for Info Pages
+    <string name="Location">Location:  </string>
+    <string name="Range">Range:  </string>
+    <string name="Notable">Notable Foods:  </string>
+
+    //Strings for Jollibee Info Page
+    <string name="selJol">Jollibee</string>
+    <string name="LocJol">Dapitan st. cor. Asturias st.</string>
+    <string name="RangeJol">40 - 160 pesos</string>
+    <string name="NotableJol">Chickenjoy, Burger Steak, Yum Burger</string>
+
+    //Strings for Ilars Info Page
+    <string name="selIlar">Ilar\'s</string>
+    <string name="LocIlar">Florentino st. near Lacson Ave.</string>
+    <string name="RangeIlar">40 - 100 pesos</string>
+    <string name="NotableIlar">Liempo, Tapsilog, Tapa Tips</string>
+
+    //Strings for Shakeys Info Page
+    <string name="selShak">Shakeys</string>
+    <string name="LocShak">Espana st.</string>
+    <string name="RangeShak">50 - 500 pesos</string>
+    <string name="NotableShak">Various Pizzas, Mojos, Chicken</string>
+
+    //Strings for Mang Toots Info Page
+    <string name="selToot">Mang Toot\'s</string>
+    <string name="LocToot">P. Noval st.</string>
+    <string name="RangeToot">10 - 100 pesos</string>
+    <string name="NotableToot">Various Ulam, Banana-rum</string>
+
+
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_selection_activity__esp">SelectionActivity_Esp</string>
+    <string name="title_activity_selection_activity__lac">SelectionActivity_Lac</string>
+    <string name="title_activity_selection_activity__nov">SelectionActivity_Nov</string>
+    <string name="title_activity_info_activity__ilar">InfoActivity_Ilar</string>
+    <string name="title_activity_info_activity__toot">InfoActivity_Toot</string>
+    <string name="title_activity_info_activity__shak">InfoActivity_Shak</string>
+
+</resources>
